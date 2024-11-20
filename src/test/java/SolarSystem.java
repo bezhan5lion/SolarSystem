@@ -18,6 +18,11 @@ public class SolarSystem {
         CC.temp="1233";
         CC.Radius="asd,mfnwoeir";
 
+
+        Planet1Class PC = new Planet1Class();
+
+        PC.color = "pink";
+        PC.size =  "75cm";
     }
 
 }
