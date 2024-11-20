@@ -18,6 +18,12 @@ public class SolarSystem {
         CC.temp="1233";
         CC.Radius="asd,mfnwoeir";
 
+        TalhaPlanet TP = new TalhaPlanet();
+
+        TP.color="blue";
+        TP.hobby="soccer";
+
+
     }
 
 }
